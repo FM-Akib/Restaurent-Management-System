@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>F:/projects_image/Managerheadsing.jpg</file>
+        <file>F:/projects_image/w00997_option3.jpg</file>
+        <file>F:/projects_image/order.jpg</file>
+        <file>F:/projects_image/menuorder2.png</file>
+        <file>F:/projects_image/owner_login.jpg</file>
+        <file>F:/projects_image/owner_pannel.jpg</file>
+        <file>F:/projects_image/managerlogin.jpg</file>
+        <file>F:/projects_image/chef02.jpg</file>
+        <file>F:/projects_image/chefprofile.jpg</file>
+        <file>F:/projects_image/chefanother.jpg</file>
+        <file>F:/projects_image/customerlogin01.jpg</file>
+        <file>F:/projects_image/customer43.jpg</file>
+        <file>F:/projects_image/customerbill.jpg</file>
+        <file>F:/projects_image/manager_here.jpg</file>
+        <file>F:/projects_image/ownerlast.jpg</file>
+        <file>F:/projects_image/resister.jpg</file>
+        <file>F:/projects_image/about.jpg</file>
+        <file>F:/projects_image/najmulsircrop.jpg</file>
+        <file>F:/projects_image/akibbw.jpg</file>
+        <file>F:/projects_image/ismail.PNG</file>
+        <file>F:/projects_image/time.jpg</file>
+        <file>F:/projects_image/timew.jpg</file>
+        <file>F:/projects_image/mutton.jpg</file>
+        <file>F:/projects_image/unnamed.jpg</file>
+    </qresource>
+    <qresource prefix="/manager_head"/>
+</RCC>
